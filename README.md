@@ -1,0 +1,2 @@
+# Faray
+locs
